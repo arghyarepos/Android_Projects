@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="title_activity_popular_movies_main">PopularMoviesMainActivity</string>
+
+   <!-- Menu Strings -->
+    <string name="menu_name_sort_order">Sort Movies</string>
+    <string name="menu_option_most_popular">Most Popular</string>
+    <string name="menu_option_top_rated">Top Rated</string>
+    <string name="menu_name_key_sort_order" translatable="false">sort_movies</string>
+    <string name="menu_option_values_most_popular" translatable="false">most_popular</string>
+    <string name="menu_option_values_top_rated" translatable="false">top_rated</string>
+
+
+</resources>
